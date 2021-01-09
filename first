@@ -1,5 +1,5 @@
-h= input("your high in M: ")
-m= input("your weigh in kg: ")
+h= input("your high in Meter: ")
+m= input("your weigh in kilogram: ")
 bmi = float(m)/(float(h)**2)
 print("your Bmi is: ", bmi)
 if bmi<18.5:
